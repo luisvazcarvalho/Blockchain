@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "Canetas",
+    "picture": "images/scottish-terrier.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "Cadeiras",
+    "picture": "images/scottish-terrier.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Mesas",
+    "picture": "images/french-bulldog.jpeg"
+  }
+]
